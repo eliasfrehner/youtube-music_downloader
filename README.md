@@ -1,6 +1,6 @@
 # youtube-music_downloader
 
-This tool will help you to recover the photos and videos from a damaged apple photo library (.photolibrary).
+This tool will help you to download music (track or playlist) from YouTube Music (.mp3).
 
 - power on your mac
 - start terminal (go to dashboard and search terminal)
