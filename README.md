@@ -14,5 +14,5 @@ clear; cd ~/Downloads/ && curl -L0 https://github.com/ytdl-org/youtube-dl/releas
 
 **tested on**
 
-Big Sur
-Yosemite
+- Big Sur
+- Yosemite
